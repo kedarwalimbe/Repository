@@ -1,0 +1,28 @@
+!SESSION 2016-08-17 17:49:37.594 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/kedarwalimbe/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/kedarwalimbe/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2016-08-17 17:52:17.889
+!MESSAGE Project facet com.ibm.etools.javaee.cdi has not been defined. It is used in plugin com.ibm.etools.javaee.core.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-08-17 17:53:03.014
+!MESSAGE cacheFile=file:/Users/kedarwalimbe/Documents/eclipse_mars/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-08-17 17:53:03.016
+!MESSAGE cacheFile=file:/Users/kedarwalimbe/Documents/eclipse_mars/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-08-17 17:53:36.360
+!MESSAGE cacheFile=file:/Users/kedarwalimbe/Documents/eclipse_mars/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2016-08-17 17:53:47.224
+!MESSAGE Project facet com.ibm.etools.javaee.cdi has not been defined. It is used in plugin com.ibm.cftools.branding.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2016-08-17 17:53:47.225
+!MESSAGE Project facet com.ibm.etools.javaee.cdi has not been defined. It is used in plugin com.ibm.ws.st.jee.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2016-08-17 17:53:47.225
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin org.eclipse.cft.server.branding.core.

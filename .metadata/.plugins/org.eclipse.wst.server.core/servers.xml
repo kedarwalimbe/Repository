@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="1" hostname="Cloud" id="IBM Bluemix" name="IBM Bluemix" org.eclipse.cft.org="kedarwalimbe" org.eclipse.cft.serverId="krwalimb@us.ibm.com_kedarwalimbe_dev@https://api.ng.bluemix.net" org.eclipse.cft.space="dev" org.eclipse.cft.url="https://api.ng.bluemix.net" org.eclipse.cft.username="krwalimb@us.ibm.com" runtime-id="IBM Bluemix Runtime" server-type="com.ibm.cftools.server" server-type-id="com.ibm.cftools.server" start-timeout="600" stop-timeout="60" timestamp="1">
+    <list key="modules"/>
+  </server>
+</servers>

@@ -1,0 +1,10 @@
+applications:
+- path: JavaCloudantApp.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: kedar-javacloudant-app3
+  host: kedar-javacloudant-app3
+  disk_quota: 1024M
+  services:
+  - kedar-javacloudant-app3-cloudantNoSQLDB
